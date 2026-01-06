@@ -1,0 +1,19 @@
+# Build output
+Debug/
+Release/
+
+# STM32CubeIDE / Eclipse
+.settings/
+.project
+.cproject
+.mxproject
+
+# Compiled binaries
+*.elf
+*.bin
+*.hex
+*.map
+
+# Editor configs
+.vscode/
+.idea/
